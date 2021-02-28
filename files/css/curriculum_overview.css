@@ -25,3 +25,28 @@ main li {
 .classroom p {
     font-size: 1.15em;
 }
+
+#column-view {
+    display: flex;
+}
+
+.column {
+    width: 50%;
+    padding: 16px;
+    font-size: 1em;
+}
+
+.column2{
+    width: 50%;
+    padding-top: 16px;
+    padding-left: 80px;
+    font-size: 1em;
+}
+
+.column .inner-div {
+    padding: 1em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #eee;
+    padding: 19px 24px;
+}
