@@ -122,3 +122,16 @@ main hr {
     background-color: #eee;
     height: 1px;
 }
+
+.imagediv {
+    width: 70%;
+    height:80%;
+   margin-left: auto;
+   margin-right: auto;
+   display:block;
+}
+.imagediv2 {
+    margin-left: 50%;
+    width: 50%;
+   align-content: center;
+}

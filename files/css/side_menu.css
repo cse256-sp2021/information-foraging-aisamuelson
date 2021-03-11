@@ -15,7 +15,7 @@ main {
 
 .stick {
     position: sticky;
-    top: 60px;
+    top: 360px;
 }
 
 ul.subnav>.current_page_item>a {

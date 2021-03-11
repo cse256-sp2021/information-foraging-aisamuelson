@@ -2,12 +2,16 @@ header {
     overflow: auto;
 }
 
+#toppad{
+    padding-top: 288px;
+}
+
 #wustl-branding {
     background-color: #a51417;
     height: 2.625rem;
     overflow: hidden;
     padding-left: 4%;
-    padding-top: 7px;
+    
 }
 
 #main-menu-container {
@@ -150,6 +154,6 @@ header a {
 /* The sticky class is added to the header with JS when it reaches its scroll position */
 .sticky {
     position: fixed;
-    top: 40px;
+    top: 330px;
     width: 100%
 }
