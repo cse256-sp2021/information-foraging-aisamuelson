@@ -157,3 +157,10 @@ header a {
     top: 330px;
     width: 100%
 }
+
+.sticky2 {
+    position: fixed;
+    top: 40px;
+    width: 100%
+}
+
